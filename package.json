@@ -1,0 +1,17 @@
+{
+  "name": "jest-vanillajs",
+  "version": "1.0.0",
+  "description": "A starter template for jest configured with js/ts for TDD",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest "
+  },
+  "keywords": [
+    "jest"
+  ],
+  "author": "devnrj07",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
