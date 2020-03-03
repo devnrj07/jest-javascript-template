@@ -7,7 +7,8 @@ In order to get this project up and running, follow these steps:
 4. Run `npm install` or `yarn install`to install the packages that this project needs
 5. Run `node index.js` to run index.js file
 6. Run `npm run test` or `yarn run test` to run all your test cases written in test.js file
-7. Alternatively, you can run jest in `watch` mode by running -> `npm run test -- --watch` or   `yarn run test --watch`
+7. Alternatively, you can run jest in `watch` mode by running -> `npm run test -- --watch` or   `yarn run test --watch`.
+NOTE : for this to work your directory must be git initialized `git init`
 
 -> *If you want to learn more about TDD and jest checkout the links below :*
 
